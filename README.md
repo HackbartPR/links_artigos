@@ -3,6 +3,9 @@
   ## WebAPI
   **Clean Architecture in ASP .NET Core Web API**: https://juldhais.net/clean-architecture-in-asp-net-core-web-api-4e5ef0b96f99
 
+  ## Geral
+  https://learn.microsoft.com/en-us/aspnet/core/fundamentals/best-practices?view=aspnetcore-8.0
+
   ## SignalR
   **Cliente .NET SignalR do ASP.NET Core**: https://learn.microsoft.com/pt-pt/aspnet/core/signalr/dotnet-client?view=aspnetcore-7.0&tabs=visual-studio
   
