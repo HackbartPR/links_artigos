@@ -21,3 +21,6 @@
   
   ## Docker
   **Guia rápido do WSL2 + Docker**: https://github.com/codeedu/wsl2-docker-quickstart
+
+  ## Banco de Dados
+  **Full Text Search SQL Server**: https://learn.microsoft.com/pt-br/sql/relational-databases/search/full-text-search?view=sql-server-ver16
